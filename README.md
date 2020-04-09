@@ -8,12 +8,10 @@ Segundo o Wikipedia, criptografia ou criptologia (em grego: kryptós, “escondi
 
 #### Cifrado: d oljhlud udsrvd pduurp vdowrx vreuh r fdfkruur fdqvdgr
 
-## ------------ \ \ ------------
-
 ## Passo a Passo para testar
 
- - [] Clonar o projeto.
- - [] Abri-lo na sua IDE favorita.
- - [] Instalar as dependências pelo yarn ou npm.
- - [] Inserir o seu token de acesso.
- - [] E por último rodar a aplicação através do `yarn dev` ou `npm run dev` e pronto.
+ - [ ] Clonar o projeto.
+ - [ ] Abri-lo na sua IDE favorita.
+ - [ ] Instalar as dependências pelo yarn ou npm.
+ - [ ] Inserir o seu token de acesso.
+ - [ ] E por último rodar a aplicação através do `yarn dev` ou `npm run dev` e pronto.
